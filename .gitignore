@@ -1,2 +1,7 @@
-LIT/Saved/
+LIT/Saved
 LIT/Intermediate/
+LIT/Executable/
+*.pdb
+*.dll
+LIT/Binaries/
+LIT/Build/
