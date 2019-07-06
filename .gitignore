@@ -5,3 +5,5 @@ LIT/Executable/
 *.dll
 LIT/Binaries/
 LIT/Build/
+LIT/.vs/LIT/v15/.suo
+LIT/LIT.sln
